@@ -1,7 +1,4 @@
-# team_project
-team project for data science class
-
-Project Statement:
+# Project Statement:
 
 For our project, we plan to analyze NFL players and their success in the NFL measured in fantasy football statistics. This will include looking at the likelihood for a player to be successful based on college, position, and prior success. We will also look across games within a season and by team.
 
