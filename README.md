@@ -4,7 +4,7 @@ For our project, we plan to analyze NFL players and their success in the NFL mea
 
 Questions to answer:
 
-1.	What college has highest fantasy point output since 2000?
+1. What college has highest fantasy point output since 2000?
         
         Visualizations: 
         
@@ -12,7 +12,7 @@ Questions to answer:
             
             -Top 20 schools and percentage of total points from position (stacked bar)
             
-2.      What position has the highest points?
+2. What position has the highest points?
 
         Visualizations:
             
@@ -20,4 +20,4 @@ Questions to answer:
             
             -Position by Year Total (Histogram)?
             
-3.	What trends are present for players by position or team across a season?
+3. What trends are present for players by position or team across a season?
