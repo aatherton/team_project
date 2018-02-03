@@ -20,4 +20,10 @@ Questions to answer:
             
             -Position by Year Total (Histogram)?
             
-3. What trends are present for players by position or team across a season?
+3. What trends are present for players from the top colleges for producing fantasy players and can a new player in the league have their production predicted based on their college?
+
+        Visualizations:
+        
+            -Prediction analysis for 2017 season based on 2000-2016 for fantasy production based on players entering from top 20 college.
+            
+            -Prediction analysis for 2017 season based on 2000-2016 for fantasy production based on position entering into league.
