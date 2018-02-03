@@ -19,4 +19,5 @@ Questions to answer:
             -Simple Comparison of total points by position (Pie or Bar)
             
             -Position by Year Total (Histogram)?
+            
 3.	What trends are present for players by position or team across a season?
