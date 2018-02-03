@@ -12,9 +12,9 @@ Questions to answer:
             
             -Top 20 schools and percentage of total points from position (stacked bar)
             
-2.	What position has the highest points?
-       
-       Visualizations:
+2.      What position has the highest points?
+
+        Visualizations:
             
             -Simple Comparison of total points by position (Pie or Bar)
             
