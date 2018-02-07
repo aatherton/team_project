@@ -1,0 +1,5 @@
+ACC = ['Clemson', 'NC State', 'Wake Forest', ' Boston College', 'Louisville', 'Florida State', 'Syracuse', 'Miami','Virginia Tech','Georgia Tech','Pittsburgh,'Virginia','Duke','North Carolina']
+Big 12 = ['Oklahoma','TCU','Oklahoma State','Texas','West Virginia','Kansas State','Iowa State','Texas Tech','Baylor','Kansas']
+Big 10 = ['Ohio State','Penn State','Michigan State','Penn State','Michigan','Rutgers','Maryland','Indiana','Wisconsin','Northwestern','Purdue','Iowa','Nebraska','Minnesota','Illinois']
+SEC = ['Geogria','South Carolina','Kentucky','Missouri','Florida','Vanderbilt','Tennessee']
+PAC12 = ['Stanford','Washington','Washington State','Oregon','California','Oregon State','USC','Arizona State','Arizona','UCLA','Utah','Colorado']
