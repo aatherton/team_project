@@ -16,9 +16,9 @@ Questions to answer:
 
         Visualizations:
             
-            -Simple Comparison of total points by position (Pie or Bar)
+            -Simple Comparison of total points by position (line graph)
             
-            -Position by Year Total (Histogram)?
+            -Average points per player at each position (line graph)
             
 3. What trends are present for players from the top colleges for producing fantasy players and can a new player in the league have their production predicted based on their college?
 
