@@ -8,7 +8,7 @@ Questions to answer:
         
         Visualizations: 
         
-            -Top 20 schools and total fantasy point output (Pie or Bar)
+            -All schools, x_axis = count of players, y_axis = all years total fantasy points (scatter plot)
             
             -Top 20 schools and percentage of total points from position (stacked bar)
             
